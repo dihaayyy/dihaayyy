@@ -27,7 +27,6 @@ Forever learning, forever building. 😄
 
   p.s. I'm new to GitHub! Still learning. Don't judge me!
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dihaayyy&show_icons=true&theme=tokyonight" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dihaayyy&layout=compact&theme=tokyonight" height="180" />
 </p>
 
@@ -36,4 +35,4 @@ Forever learning, forever building. 😄
 ## ☕ Let's Connect
 
 - 🌐 Website/Portfolio: *(coming soon or skip)*
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dihya-qalby/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dihya-qalby/)

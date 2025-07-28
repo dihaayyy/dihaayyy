@@ -34,5 +34,4 @@ Forever learning, forever building. 😄
 
 ## ☕ Let's Connect
 
-- 🌐 Website/Portfolio: *(coming soon or skip)*
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dihya-qalby/)

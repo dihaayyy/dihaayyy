@@ -2,7 +2,6 @@
 
 ## 🚀 About Me
 
-**🇬🇧 English**  
 I'm Dihaayyy — a curious developer who enjoys building awesome things across **Web**, **Mobile**, and **AI**.  
 I like crafting beautiful UIs with **React**, **Vue**, and **Tailwind**, and building powerful backends using **Node.js**, **Express**, and **Python**.  
 Also play around with **Android Studio** and **Java** when making native mobile apps.  

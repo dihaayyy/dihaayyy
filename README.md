@@ -25,10 +25,10 @@ Forever learning, forever building. 😄
 
 ## 📈 GitHub Stats
 
-  p.s. I'm new to GitHub! Still learning.
+  p.s. I'm new to GitHub! Still learning. Don't judge me!
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uhuy&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uhuy&layout=compact&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dihaayyy&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dihaayyy&layout=compact&theme=tokyonight" height="180" />
 </p>
 
 ---

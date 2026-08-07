@@ -11,7 +11,8 @@ Besides web development, I enjoy experimenting with **Android Studio**, **Java**
 
 Currently learning, building, breaking things, and building them again. 😄
 
-<p align="center">Software Engineer → AI Engineer 🚀</p>
+
+<h3 align="center">Software Engineer → AI Engineer 🚀</h3>
 
 ## 🛠️ Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)

@@ -1,13 +1,12 @@
 # 👋 Hi, I'm Dihaayyy!
 
 ## 🚀 About Me
-
-I'm Dihaayyy — a curious developer who enjoys building awesome things across **Web**, **Mobile**, and **AI**.  
-Currently learning AI-related, such as **Machine Learning**, **Deep Learning**, and even **Data Scientist**. But mostly, i'm a Software Engineer!
-I like crafting beautiful UIs with **React**, **NextJS**, and **Tailwind**, and building powerful backends using **Node.js**, **Express**, and **Python**.  
-Also play around with **Android Studio**, **Unity Hub**, and **Java** when making native mobile apps.  
-Forever learning, forever building. 😄
-
+I'm Dihaayyy — a **Software Engineer** who enjoys building things across **Web**, **Mobile**, and **AI**.
+I mainly work with **React**, **Next.js**, and **Tailwind CSS** to craft modern and responsive interfaces, while using **Node.js**, **Express.js**, and **Python** to build reliable backends and APIs, and designing UI/UX with **Figma** and turning ideas into functional products.
+I'm also exploring the world of **Artificial Intelligence**, especially **Machine Learning**, **Deep Learning**, and **Data Science**, as I work toward becoming an **AI Engineer** in the future.
+Besides web development, I enjoy experimenting with **Android Studio**, **Java**, and **Unity** to build mobile and interactive applications.
+Currently learning, building, breaking things, and building them again. 😄
+Software Engineer → AI Engineer 🚀
 
 ## 🛠️ Tools
 
